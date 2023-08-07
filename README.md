@@ -71,7 +71,11 @@ Created two users named Karen and Ken that will be submiting tickets to the syst
 <img width="638" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/ab90db46-3177-474e-b0b3-ae3c0d0ec569">
 </p>
 <p>
-Set up 3 different SLA's. SEV-A (1hr 24/7) is Business Critical. SEV-B (4hr 24/7). SEV-C (8hr Business Hours only. M-F) </p>
+Set up 3 different SLA's:
+  
+  SEV-A (1 hour 24/7) 
+  SEV-B (4hr 24/7)
+  SEV-C (8hr Business Hours only. M-F) </p>
 <br />
 
 
