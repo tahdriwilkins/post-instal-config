@@ -30,6 +30,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img width="564" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/725b76ad-1f88-4b26-b2e1-617247cd4875">
+<img width="564" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/a409f206-5173-4274-afc6-120c9e6dc3df">
+<img width="564" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/bea95200-f29d-48de-9d37-611452f210d4">
+
+
 </p>
 <p>
 Configured a new role of "Supreme Admin" that has all of the permissions to assign, delete, transfer, edit, close and create tickets and tasks </p>
