@@ -47,7 +47,7 @@ Created a department of System Administrators </p>
 <br />
 
 <p>
-<img width="638" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/7f8460cf-110d-4602-a948-84b709261ff5">
+<img width="638" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/fa251f68-2f90-4e5a-9a9e-87934e841082">
 </p>
 <p>
 Created teams of Level I and Level II Support</p>
