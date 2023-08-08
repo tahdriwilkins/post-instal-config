@@ -72,10 +72,12 @@ Created two users named Karen and Ken that will be submiting tickets to the syst
 </p>
 <p>
 Set up 3 different SLA's:
-  
-  SEV-A (1 hour 24/7) 
-  SEV-B (4hr 24/7)
-  SEV-C (8hr Business Hours only. M-F) </p>
+<ul> 
+  <li> SEV-A (1 hour 24/7) </li> 
+  <li> SEV-B (4hr 24/7) </li>
+  <li> SEV-C (8hr Business Hours only. M-F) </li>
+</ul>  
+ </p>
 <br />
 
 
