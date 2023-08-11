@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This project outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -33,39 +33,37 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="564" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/725b76ad-1f88-4b26-b2e1-617247cd4875">
 <img width="564" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/a409f206-5173-4274-afc6-120c9e6dc3df">
 <img width="564" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/bea95200-f29d-48de-9d37-611452f210d4">
-
-
 </p>
-<p>
-Configured a new role of "Supreme Admin" that has all of the permissions to assign, delete, transfer, edit, close and create tickets and tasks </p>
+
+- Configured a new role of "Supreme Admin" that has all of the permissions to assign, delete, transfer, edit, close and create tickets and tasks 
 <br />
 
 <p>
 <img width="647" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/eaa4e775-b13c-4d62-a550-2ea13293545b">
 </p>
-<p>
-Created a department of System Administrators </p>
+
+- Created a department of System Administrators 
 <br />
 
 <p>
 <img width="638" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/fa251f68-2f90-4e5a-9a9e-87934e841082">
 </p>
-<p>
-Created teams of Level I and Level II Support</p>
+
+- Created teams of Level I and Level II Support
 <br />
 
 <p>
 <img width="638" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/d3e8c3aa-1fd1-4279-bf71-1c745b7887ff">
 </p>
-<p>
-Created Agents Jane and John and attached them to teams and departments</p>
+
+-Created Agents Jane and John and attached them to teams and departments
 <br />
 
 <p>
 <img width="638" alt="image" src="https://github.com/tahdriwilkins/post-instal-config/assets/141438778/3f264691-662b-465b-aad1-f88528e38ce4">
 </p>
-<p>
-Created two users named Karen and Ken that will be submiting tickets to the system</p>
+
+- Created two users named Karen and Ken that will be submiting tickets to the system
 <br />
 
 <p>
@@ -92,7 +90,8 @@ Created different Help Topics for our users to use when submiting a ticket
   <li> Personal Computer Issues</li>
   <li> Password Reset</li>
   <li> Equipment Request</li>
-</ul></p>
+</ul>
+</p>
 <br />
 
 
